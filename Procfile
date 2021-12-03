@@ -1,1 +1,1 @@
-web: bundle exec puma -C config/main.rb
+worker: ruby main.rb
